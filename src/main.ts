@@ -1,7 +1,12 @@
 import './style.css'
-import "C:/PWA24/intro-ts/src/temas-ts/01-tipos-bas.ts"
-import "C:/PWA24/intro-ts/src/temas-ts/02-interfaz-obj.ts"
-import "C:/PWA24/intro-ts/src/temas-ts/03-funciones.ts"
+//import "C:/PWA24/intro-ts/src/temas-ts/01-tipos-bas.ts"
+//import "C:/PWA24/intro-ts/src/temas-ts/02-interfaz-obj.ts"
+//import "C:/PWA24/intro-ts/src/temas-ts/03-funciones.ts"
+//import "C:/PWA24/intro-ts/src/temas-ts/04-desestructurar-obj.ts"
+//import "C:/PWA24/intro-ts/src/temas-ts/05-desestructurar-funciones.ts"
+//import "C:/PWA24/intro-ts/src/temas-ts/06-exportar-importar.ts"
+import "C:/PWA24/intro-ts/src/temas-ts/07-clases.ts"
+
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
